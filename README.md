@@ -3,7 +3,7 @@ Trim videos by removing silent parts.
 This is my own customization and improvements upon https://github.com/lamaun/jumpcutter/
 
 # Notes
-* Requires Python 3
+* Requires Python 3.
 * Requires ffmpeg in path. Will start several subprocesses that call ffmpeg.
 * Tested with hundreds of files ranging from a few megs (minutes) to gigabytes (hours).
 * As the program runs, it saves every frame of the video as an image file in a temporary folder. If your video is long, this could take a LOT of space.
