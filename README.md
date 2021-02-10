@@ -1,5 +1,6 @@
 # jumpcutter
 Trim videos by removing silent parts.
+
 This is my own customization and improvements upon https://github.com/lamaun/jumpcutter/
 
 # Notes
