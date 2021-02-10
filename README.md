@@ -16,9 +16,11 @@ This is my own customization and improvements upon https://github.com/lamaun/jum
 
 # Usage
 To run on a single video file:
+
 python3 jumpcut_file.py -i input_file -o output_file [args]
 
 To run on all video files within several directories:
+
 python3 jumpcutter.py
 
 The input paths as well as the command-line arguments to jumpcut_file.py are hard-coded in jumpcutter.py. Feel free to change that to forward command-line arguments to jumpcut_file.py.
